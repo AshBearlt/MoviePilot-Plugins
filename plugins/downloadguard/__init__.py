@@ -21,10 +21,10 @@ class DownloadGuard(_PluginBase):
     # 插件信息
     plugin_name = "下载空间守护"
     plugin_desc = "监控qBittorrent下载，空间不足时自动发起整理"
-    plugin_icon = "https://raw.githubusercontent.com/jxxghp/MoviePilot-Plugins/main/icons/scan.png"
+    plugin_icon = "https://raw.githubusercontent.com/AshBearlt/MoviePilot-Plugins/main/icons/scan.png"
     plugin_version = "1.0.0"
-    plugin_author = "MoviePilot"
-    author_url = "https://github.com/jxxghp"
+    plugin_author = "AshBearlt"
+    author_url = "https://github.com/AshBearlt"
     plugin_config_prefix = "downloadguard_"
     plugin_order = 50
     auth_level = 1

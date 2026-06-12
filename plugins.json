@@ -1,16 +1,16 @@
 {
-  "repo_name": "MoviePilot 个人插件仓库",
-  "repo_url": "https://github.com/YOUR_USERNAME/MoviePilot-Plugins",
+  "repo_name": "AshBearlt 个人插件仓库",
+  "repo_url": "https://github.com/AshBearlt/MoviePilot-Plugins",
   "plugins": [
     {
       "id": "DownloadGuard",
       "name": "下载空间守护",
       "version": "1.0.0",
       "description": "监控 qBittorrent 下载，空间不足时自动发起整理",
-      "author": "MoviePilot",
-      "homepage": "https://github.com/YOUR_USERNAME/MoviePilot-Plugins",
+      "author": "AshBearlt",
+      "homepage": "https://github.com/AshBearlt/MoviePilot-Plugins",
       "plugin_path": "plugins/downloadguard",
-      "icon": "https://raw.githubusercontent.com/jxxghp/MoviePilot-Plugins/main/icons/scan.png",
+      "icon": "https://raw.githubusercontent.com/AshBearlt/MoviePilot-Plugins/main/icons/scan.png",
       "requirements": [],
       "features": [
         "定时监控磁盘空间",
