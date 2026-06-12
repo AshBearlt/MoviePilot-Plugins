@@ -2,7 +2,7 @@
   "DownloadGuard": {
     "name": "下载空间守护",
     "description": "监控 qBittorrent 下载，空间不足时自动发起整理",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "AshBearlt",
     "homepage": "https://github.com/AshBearlt/MoviePilot-Plugins",
     "repo_url": "https://github.com/AshBearlt/MoviePilot-Plugins",
