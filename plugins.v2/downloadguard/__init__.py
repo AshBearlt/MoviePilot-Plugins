@@ -67,10 +67,7 @@ class DownloadGuard(_PluginBase):
 
     def get_state(self) -> bool:
         """获取插件运行状态"""
-        state = self._enabled
-        # 每次调用都记录，便于调试
-        logger.warning(f"[DownloadGuard] get_state() → {state}")
-        return state
+        return self._enabled
 
     def _scheduled_check(self):
         """定时检测：仅当 qBittorrent 有下载中任务时才检查空间。"""
